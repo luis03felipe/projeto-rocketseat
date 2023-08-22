@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito por Luís Felipe. Este projeto está um pouco diferente das aulas pois optei por fazer mudanças ao qual achei mais interessantes.
